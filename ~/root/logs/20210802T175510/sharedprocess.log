@@ -1,0 +1,21 @@
+[2021-08-02 17:55:23.302] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-08-02 17:55:27.318] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-02 17:55:47.316] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-02 17:55:47.317] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-02 17:55:57.316] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-02 17:56:50.300] [sharedprocess] [info] Installing extension: tristanremy.mirage
+[2021-08-02 17:56:52.273] [sharedprocess] [info] Downloaded extension: tristanremy.mirage /opt/lampp/htdocs/~/root/CachedExtensionVSIXs/tristanremy.mirage-0.3.10
+[2021-08-02 17:56:52.327] [sharedprocess] [info] Extracted extension to /home/pheuture/.vscode/extensions/.30fd4b27-6749-49f6-b9f2-e456cf3d1f2a: tristanremy.mirage
+[2021-08-02 17:56:52.373] [sharedprocess] [info] Renamed to /home/pheuture/.vscode/extensions/tristanremy.mirage-0.3.10
+[2021-08-02 17:56:52.374] [sharedprocess] [info] Installation completed. tristanremy.mirage
+[2021-08-02 17:56:52.407] [sharedprocess] [info] Extensions installed successfully: tristanremy.mirage
+[2021-08-02 17:57:26.925] [sharedprocess] [warning] Resolved variables received without matching request 16
+[2021-08-02 17:57:26.952] [sharedprocess] [warning] Resolved variables received without matching request 17
+[2021-08-02 17:57:27.039] [sharedprocess] [warning] Resolved variables received without matching request 18
+[2021-08-02 17:57:27.040] [sharedprocess] [warning] Resolved variables received without matching request 19
+[2021-08-02 17:57:27.041] [sharedprocess] [warning] Resolved variables received without matching request 20
+[2021-08-02 17:57:28.892] [sharedprocess] [warning] Resolved variables received without matching request 21
+[2021-08-02 17:57:28.894] [sharedprocess] [warning] Resolved variables received without matching request 22
+[2021-08-02 17:57:28.896] [sharedprocess] [warning] Resolved variables received without matching request 23
+[2021-08-02 17:57:28.898] [sharedprocess] [warning] Resolved variables received without matching request 24
+[2021-08-02 17:57:28.900] [sharedprocess] [warning] Resolved variables received without matching request 25
